@@ -160,6 +160,19 @@ h1{
             text-align:center;
            
              }
+
+             #features{
+                padding:4% 1%;
+           
+            }
+            .feature-box{
+                text-align:center;
+                padding:4%;
+            }
+            .feature-para{
+                font-size:25px;
+                color:black;
+            }
     }
     
 
