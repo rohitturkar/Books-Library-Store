@@ -49,12 +49,12 @@ h1{
 }
  /* features */
  #features{
-     padding:7% 15%;
+     padding:4% 10%;
 
  }
  .feature-box{
      text-align:center;
-     padding:5%;
+     padding:4%;
  }
  h3{
      font-family:'Montserrat';
@@ -65,7 +65,7 @@ h1{
  }
  .icon-feature{
      color:#ef8172;
-     padding:10px 0px;
+     padding:5px 0px;
      margin:1rem;
     }
  .icon-feature:hover{
@@ -74,7 +74,7 @@ h1{
 
     /* Testimonials */
     #testimonials{
-        padding:6% 15%;
+        padding:6% 5%;
         text-align:center;
         background-color:#ff4c68;
         color:#fff;
@@ -109,7 +109,7 @@ h1{
 
     /* books */
     #book-images{
-    padding:50px;
+
    text-align:center;
     }
 
